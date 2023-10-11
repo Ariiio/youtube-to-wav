@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: ytw
+Version: 0.0.0
+Summary: Youtube to wav
+Author: You
+Author-email: 
+Requires-Dist: requests

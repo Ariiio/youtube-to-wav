@@ -1,0 +1,2 @@
+[console_scripts]
+ytw = ytw.entry:cli_entry_point
